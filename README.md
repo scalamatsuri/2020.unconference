@@ -1,6 +1,6 @@
 # Welcome to ScalaMatsuri 2020 unconference repository!
 
-Put your session ideas here for ScalaMatsuri 2020 Unconference!
+Put your session ideas into [the issue list](https://github.com/scalamatsuri/2020.unconference/issues) for ScalaMatsuri 2020 Unconference!
 
 ## Unconference? How it's going on?
 
