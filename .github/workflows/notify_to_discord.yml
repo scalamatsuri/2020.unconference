@@ -26,4 +26,4 @@ jobs:
         webhook_token: ${{ secrets.DISCORD_WEBHOOK_TOKEN }}
         color: "#48f442"
         username: "GitHub Bot"
-        args: ${{ github.event.issue.user.login }}さんが「${{ github.event.issue.title }}」を投稿しました。聞きたい/喋りたい人はリアクションお願いします！ ${{ github.event.issue.url }}
+        args: ${{ github.event.issue.user.login }}さんが「${{ github.event.issue.title }}」を投稿しました。聞きたい/喋りたい人はリアクションお願いします！ ${{ github.event.issue.html_url }}
