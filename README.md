@@ -29,7 +29,7 @@ Please note simultaneous translation will not be provided for the unconference.
 
 # Issue labels:
 - `i wanna talk`: Session idea you want to give a talk about.
-- `discussion`: Session idea to disucuss a certain topic. 
+- `discussion`: Session idea to discuss a certain topic. 
 - `speaker wanted`: Session idea you want to hear.
 
 Since ScalaMatsuri staffs and some of participants can manage label, please clarify which kind of session ideas you raised.
