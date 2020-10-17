@@ -26,3 +26,10 @@ There is no limit to the number of tracks, so please feel free to submit your id
 Please note simultaneous translation will not be provided for the unconference. 
 
 *Quated from [ScalaMatsuri 2020 guide](https://blog-en.scalamatsuri.org/entry/2020/10/14/scalamatsuri-guide)*
+
+# Issue labels:
+- `i wanna talk`: Session idea you want to give a talk about.
+- `discussion`: Session idea to discuss a certain topic. 
+- `speaker wanted`: Session idea you want to hear.
+
+Since ScalaMatsuri staffs and some of participants can manage label, please clarify which kind of session ideas you raised.
