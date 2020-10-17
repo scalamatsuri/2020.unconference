@@ -1,7 +1,7 @@
 ---
 name: I want to talk about...
 about: Unconference idea
-title: ''
+title: "[Your Session Idea Title]"
 labels: I wanna talk
 assignees: ''
 
