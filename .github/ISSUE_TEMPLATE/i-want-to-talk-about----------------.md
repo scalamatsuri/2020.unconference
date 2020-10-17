@@ -19,4 +19,4 @@ Time preference: [12:00 - 20:00] in JST (UTC+9)
 # Comment for audience
 このセッションを聞きたい方は、こちらに👍を付けて下さい！
 
-Please reaction 👍 if you want to listen this session.
+Please show your reaction e.g.👍 if you want to listen this session.

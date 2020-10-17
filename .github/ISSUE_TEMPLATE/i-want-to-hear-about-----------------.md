@@ -21,5 +21,5 @@ Detail:
 このセッションを聞きたい方は、こちらに👍を付けて下さい！
 このトピックについて喋れるよ、という方はコメントをお願いします。
 
-Please reaction 👍 if you want to listen this session.
+Please show your reaction e.g.👍 if you want to listen this session.
 If you can speak about this topic, please leave your comment.

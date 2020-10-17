@@ -22,4 +22,4 @@ Detail:
 
 このセッションに参加したい方は、こちらに👍を付けて下さい！
 
-Please reaction 👍 if you want to join this session.
+Please show your reaction e.g. 👍 if you want to join this session.
